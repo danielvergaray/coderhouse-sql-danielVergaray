@@ -1,3 +1,5 @@
+DROP DATABASE IF EXISTS dentosmart_bd;
+CREATE DATABASE dentosmart_bd;
 USE dentosmart_bd;
 
 CREATE TABLE dentosmart_bd.materiales_dentales (
